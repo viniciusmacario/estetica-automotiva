@@ -144,6 +144,7 @@ C:\Users\varle\Desktop\estetica-automotiva\backend\obj\Debug\net10.0\backend.Ass
 C:\Users\varle\Desktop\estetica-automotiva\backend\obj\Debug\net10.0\backend.csproj.CoreCompileInputs.cache
 C:\Users\varle\Desktop\estetica-automotiva\backend\obj\Debug\net10.0\backend.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\varle\Desktop\estetica-automotiva\backend\obj\Debug\net10.0\backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\varle\Desktop\estetica-automotiva\backend\obj\Debug\net10.0\backend.sourcelink.json
 C:\Users\varle\Desktop\estetica-automotiva\backend\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Users\varle\Desktop\estetica-automotiva\backend\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\varle\Desktop\estetica-automotiva\backend\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json

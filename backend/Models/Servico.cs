@@ -4,9 +4,9 @@ public class Servico
 {
     public int Id { get; set; }
 
-    public string Nome { get; set; } = null!;
+    public string Nome { get; set; } = string.Empty;
 
-    public string Descricao { get; set; } = null!;
+    public string Descricao { get; set; } = string.Empty;
 
     public decimal Preco { get; set; }
 
