@@ -160,3 +160,11 @@ C:\Users\varle\Desktop\estetica-automotiva\backend\obj\Debug\net10.0\refint\back
 C:\Users\varle\Desktop\estetica-automotiva\backend\obj\Debug\net10.0\backend.pdb
 C:\Users\varle\Desktop\estetica-automotiva\backend\obj\Debug\net10.0\backend.genruntimeconfig.cache
 C:\Users\varle\Desktop\estetica-automotiva\backend\obj\Debug\net10.0\ref\backend.dll
+C:\Users\varle\Desktop\estetica-automotiva\backend\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\varle\Desktop\estetica-automotiva\backend\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\varle\Desktop\estetica-automotiva\backend\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\varle\Desktop\estetica-automotiva\backend\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\varle\Desktop\estetica-automotiva\backend\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\varle\Desktop\estetica-automotiva\backend\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\varle\Desktop\estetica-automotiva\backend\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\varle\Desktop\estetica-automotiva\backend\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll

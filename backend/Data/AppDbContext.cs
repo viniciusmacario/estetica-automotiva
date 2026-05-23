@@ -13,4 +13,6 @@ public class AppDbContext : DbContext
     public DbSet<Cliente> Clientes { get; set; }
 
     public DbSet<Servico> Servicos { get; set; }
+
+    public DbSet<Usuario> Usuarios { get; set; }
 }

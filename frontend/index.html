@@ -2,36 +2,93 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <title>Estética Automotiva</title>
 
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
 
-    <h1>Estética Automotiva</h1>
+    <div class="layout">
 
-    <div class="container">
+        <aside class="sidebar">
 
-        <h2>Cadastrar Serviço</h2>
+            <h2>🚗 Estética</h2>
 
-        <input type="text" id="nome" placeholder="Nome">
+            <button onclick="mostrarDashboard()">
+                Dashboard
+            </button>
 
-        <input type="text" id="descricao" placeholder="Descrição">
+            <button onclick="mostrarServicos()">
+                Serviços
+            </button>
 
-        <input type="number" id="preco" placeholder="Preço">
+            <button onclick="mostrarClientes()">
+                Clientes
+            </button>
 
-        <input type="number" id="duracao" placeholder="Duração em minutos">
+        </aside>
 
-        <button onclick="cadastrarServico()">
-            Cadastrar
-        </button>
+        <main class="conteudo">
 
-        <hr>
+            <section id="dashboard">
 
-        <h2>Lista de Serviços</h2>
+                <h1>Dashboard</h1>
 
-        <div id="lista-servicos"></div>
+                <div class="cards">
+
+                    <div class="card">
+                        <h3>Total Serviços</h3>
+
+                        <p id="total-servicos">0</p>
+                    </div>
+
+                    <div class="card">
+                        <h3>Total Clientes</h3>
+
+                        <p id="total-clientes">0</p>
+                    </div>
+
+                </div>
+
+            </section>
+
+            <section id="servicos" style="display:none;">
+
+                <h1>Serviços</h1>
+
+                <div class="formulario">
+
+                    <input type="text" id="nome" placeholder="Nome">
+
+                    <input type="text" id="descricao" placeholder="Descrição">
+
+                    <input type="number" id="preco" placeholder="Preço">
+
+                    <input type="number" id="duracao" placeholder="Duração">
+
+                    <button id="botao-form">
+                        Cadastrar Serviço
+                    </button>
+
+                </div>
+
+                <div id="lista-servicos"></div>
+
+            </section>
+
+            <section id="clientes" style="display:none;">
+
+                <h1>Clientes</h1>
+
+                <div id="lista-clientes"></div>
+
+            </section>
+
+        </main>
 
     </div>
 
